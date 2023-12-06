@@ -20,5 +20,5 @@ P = soltar bomba
 
 Objetivo: acertar 10 poderes no adiversario para ganhar.
 
-Autores:
+Autora:
 - Beatriz de Oliveira
